@@ -6,6 +6,7 @@ Multiple python notebooks with appropriate titles have been uploaded. These note
 Specifically, following hyperparameters have been tuned:
 <br />
 a) Testing the model with or without dropout layers. <br />
-b) Varying the number of epochs <br />
+b) Varying the number of layers <br />
+c) Varying the number of epochs <br />
 c) Varying the size of dataset <br />
 d) Varying Batch Size
